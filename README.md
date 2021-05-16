@@ -3,10 +3,6 @@
   <img style="text-align:center" src="https://raw.githubusercontent.com/arun0908/Netflix-clone/master/public/Preview.gif" />
 </p>
 
-# Demo
-
-Live Demo: _Coming soon_
-
 <p align="center">
   <img style="text-align:center" src="https://raw.githubusercontent.com/arun0908/Netflix-clone/master/public/home.png" />
 </p>
@@ -31,4 +27,4 @@ $ npm install
 $ npm start
 ```
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
