@@ -3,6 +3,8 @@
   <img style="text-align:center" src="https://raw.githubusercontent.com/arun0908/Netflix-clone/master/public/Preview.gif" />
 </p>
 
+# Demo
+
 <p align="center">
   <img style="text-align:center" src="https://raw.githubusercontent.com/arun0908/Netflix-clone/master/public/home.png" />
 </p>
